@@ -31,11 +31,11 @@ The dataset used for this project is the Heart Disease UCI dataset available fro
 ## Model
 The notebook explores several machine learning models, including:
 
-Logistic Regression
-Random Forest
-Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
-Neural Networks
+* Logistic Regression
+* Random Forest
+* Support Vector Machine (SVM)
+* K-Nearest Neighbors (KNN)
+* Neural Networks
 
 ## Results
 The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The notebook provides detailed visualizations and comparisons of the models' performance.
