@@ -23,3 +23,17 @@ To run this notebook, you'll need to have Python installed along with several li
 
 ```bash
 pip install -r requirements.txt
+
+Dataset
+The dataset used for this project is the Heart Disease UCI dataset available from the UCI Machine Learning Repository. It contains 14 attributes and a target variable indicating the presence of heart disease.
+
+Model
+The notebook explores several machine learning models, including:
+
+Logistic Regression
+Random Forest
+Support Vector Machine (SVM)
+K-Nearest Neighbors (KNN)
+Neural Networks
+Results
+The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The notebook provides detailed visualizations and comparisons of the models' performance.
